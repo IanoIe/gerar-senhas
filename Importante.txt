@@ -1,0 +1,4 @@
+Este Projeto e assim como os outros projetos servirão para o meu aprofundamento na programação web
+usando JAVASCRIPTS, CSS e HTML
+
+Para estes projetos, foi-se estudando atraves dos videos vistos no canal de youtube 
